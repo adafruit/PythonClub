@@ -6,7 +6,9 @@ For learning Python
 
 ## Resources
 
-Official Python Docs - <https://docs.python.org/3/>
+Here are a few resources to get started. Feel free to add to this list. 
+
+[Official Python Docs](https://docs.python.org/3/)
 
 Text Editors:
 - [Sublime](http://www.sublimetext.com/)
@@ -26,7 +28,7 @@ Github:
 - [Official Github](www.github.com)
 
 Practice your skills:
--[Codewars](http://www.codewars.com/)
+- [Codewars](http://www.codewars.com/)
 
 Cheatsheets:
 - [Python API](http://overapi.com/python/)
