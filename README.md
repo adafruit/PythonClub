@@ -25,7 +25,6 @@ Terminal Power:
 
 Github:
 - [Learn Github](http://rogerdudler.github.io/git-guide/)
-- [Official Github](www.github.com)
 
 Practice your skills:
 - [Codewars](http://www.codewars.com/)
