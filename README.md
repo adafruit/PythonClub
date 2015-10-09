@@ -31,6 +31,3 @@ Practice your skills:
 
 Cheatsheets:
 - [Python API](http://overapi.com/python/)
-
-
-Look i changed this!
